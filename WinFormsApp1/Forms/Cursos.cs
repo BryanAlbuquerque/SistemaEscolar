@@ -24,5 +24,14 @@ namespace WinFormsApp1.Forms
             dtGrid.DataSource = carregar.DadosCursos();
 
         }
+
+        private void btnPesquisar_Click(object sender, EventArgs e)
+        {
+            string termo = txtPesquisa.Text.Trim();
+
+            BuscarBD buscar = new BuscarBD();
+            dtGrid.DataSource = buscar.BuscarCursos(termo);
+
+        }
     }
 }
