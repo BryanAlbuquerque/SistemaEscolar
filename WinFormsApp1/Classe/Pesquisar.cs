@@ -3,7 +3,7 @@ using WinFormsApp1.Model;
 
 namespace WinFormsApp1.Classe
 {
-    internal class BuscarBD
+    internal class Pesquisar
     {
         private readonly static string ConnectionString =
             "server=localhost;user=root;password=;database=Escola";
@@ -41,7 +41,6 @@ namespace WinFormsApp1.Classe
                     }
                 }
             }
-
             return lista;
         }
 

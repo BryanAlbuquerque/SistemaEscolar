@@ -19,7 +19,7 @@ namespace WinFormsApp1
         {
             string termo = txtPesquisa.Text.Trim();
 
-            BuscarBD buscar = new BuscarBD();
+            Pesquisar buscar = new Pesquisar();
             var dados = buscar.BuscarAlunos(termo);
 
             dtGrid.DataSource = dados;

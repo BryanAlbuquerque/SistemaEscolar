@@ -18,16 +18,9 @@ namespace WinFormsApp1
             formPadrao.Show();
         }
 
-        private void formTestToolStripMenuItem_Click(object sender, EventArgs e)
-        {
-            Login formLogin = new Login();
-            formLogin.MdiParent = this;
-            formLogin.Show();
-        }
-
         private void formCadastroToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            Cadastro cadastro = new Cadastro();
+            CadastrarAlunos cadastro = new CadastrarAlunos();
             cadastro.MdiParent = this;
             cadastro.Show();
         }
@@ -65,7 +58,7 @@ namespace WinFormsApp1
 
         private void cadastrarCursoToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            CadastrarCurso curso = new CadastrarCurso();
+            CadastrarCursos curso = new CadastrarCursos();
             curso.MdiParent = this;
             curso.Show();
         }

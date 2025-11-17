@@ -3,9 +3,9 @@ using WinFormsApp1.Classe;
 
 namespace WinFormsApp1
 {
-    public partial class CadastrarCurso : Form
+    public partial class CadastrarAlunos : Form
     {
-        public CadastrarCurso()
+        public CadastrarAlunos()
         {
             InitializeComponent();
         }
@@ -14,17 +14,20 @@ namespace WinFormsApp1
         {
             try
             {
-                var cadastrarCurso = new CadastrarCursoDB(
+                var aluno = new Classe.CadastrarAlunos(
                 txtNome.Text,
-                int.Parse(txtAno.Text),
-                int.Parse(txtCargaHoraria.Text));
+                DateTime.Parse(txtData.Text),
+                txtSexo.Text,
+                txtCidade.Text,
+                txtNacionalidade.Text);
 
-                cadastrarCurso.Cadastrar();
+                aluno.CadastrarAluno();
                 MessageBox.Show("Aluno cadastrado com sucesso!");
             }
-            catch (Exception ex)
+            catch (Exception)
             {
-                MessageBox.Show("Erro ao cadastrar curso: " + ex.Message);
+
+                throw;
             }
         }
     }

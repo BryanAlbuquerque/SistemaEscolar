@@ -3,7 +3,7 @@ using MySql.Data.MySqlClient;
 
 namespace WinFormsApp1.Classe
 {
-    internal class CadastroDB
+    internal class CadastrarAlunos
     {
         private static readonly string ConnectionString =
             "server=localhost;user=root;password=;database=Escola";
@@ -14,7 +14,7 @@ namespace WinFormsApp1.Classe
         public string Cidade { get; set; }
         public string Nacionalidade { get; set; }
 
-        public CadastroDB(string nome, DateTime nascimento, string sexo, string cidade, string nacionalidade)
+        public CadastrarAlunos(string nome, DateTime nascimento, string sexo, string cidade, string nacionalidade)
         {
             Nome = nome;
             Nascimento = nascimento;

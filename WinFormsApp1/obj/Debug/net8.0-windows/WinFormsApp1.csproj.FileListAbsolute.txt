@@ -55,10 +55,7 @@ C:\Users\bryan\Documents\SistemaEscolar\WinFormsApp1\bin\Debug\net8.0-windows\ru
 C:\Users\bryan\Documents\SistemaEscolar\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
 C:\Users\bryan\Documents\SistemaEscolar\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
 C:\Users\bryan\Documents\SistemaEscolar\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Alunos.resources
-C:\Users\bryan\Documents\SistemaEscolar\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.CadastrarCurso.resources
-C:\Users\bryan\Documents\SistemaEscolar\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Cadastro.resources
 C:\Users\bryan\Documents\SistemaEscolar\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Forms.Cursos.resources
-C:\Users\bryan\Documents\SistemaEscolar\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Login.resources
 C:\Users\bryan\Documents\SistemaEscolar\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.MenuPricipal.resources
 C:\Users\bryan\Documents\SistemaEscolar\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Properties.Resources.resources
 C:\Users\bryan\Documents\SistemaEscolar\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.GenerateResource.cache
@@ -73,3 +70,5 @@ C:\Users\bryan\Documents\SistemaEscolar\WinFormsApp1\obj\Debug\net8.0-windows\re
 C:\Users\bryan\Documents\SistemaEscolar\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.pdb
 C:\Users\bryan\Documents\SistemaEscolar\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.genruntimeconfig.cache
 C:\Users\bryan\Documents\SistemaEscolar\WinFormsApp1\obj\Debug\net8.0-windows\ref\WinFormsApp1.dll
+C:\Users\bryan\Documents\SistemaEscolar\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.CadastrarAlunos.resources
+C:\Users\bryan\Documents\SistemaEscolar\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.CadastrarCursos.resources

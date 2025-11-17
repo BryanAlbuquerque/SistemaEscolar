@@ -1,6 +1,6 @@
 ﻿namespace WinFormsApp1
 {
-    partial class Cadastro
+    partial class CadastrarAlunos
     {
         /// <summary>
         /// Required designer variable.

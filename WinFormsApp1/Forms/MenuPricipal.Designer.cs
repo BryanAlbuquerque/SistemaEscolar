@@ -30,8 +30,8 @@
         {
             arquivoToolStripMenuItem = new ToolStripMenuItem();
             novoToolStripMenuItem = new ToolStripMenuItem();
+            cursosToolStripMenuItem = new ToolStripMenuItem();
             abrirToolStripMenuItem = new ToolStripMenuItem();
-            formTestToolStripMenuItem = new ToolStripMenuItem();
             formCadastroToolStripMenuItem = new ToolStripMenuItem();
             cadastrarCursoToolStripMenuItem = new ToolStripMenuItem();
             editarToolStripMenuItem = new ToolStripMenuItem();
@@ -42,7 +42,6 @@
             fecharAbasToolStripMenuItem = new ToolStripMenuItem();
             minimizarAbasToolStripMenuItem = new ToolStripMenuItem();
             menuStrip1 = new MenuStrip();
-            cursosToolStripMenuItem = new ToolStripMenuItem();
             menuStrip1.SuspendLayout();
             SuspendLayout();
             // 
@@ -60,25 +59,25 @@
             novoToolStripMenuItem.Text = "Alunos";
             novoToolStripMenuItem.Click += novoToolStripMenuItem_Click;
             // 
+            // cursosToolStripMenuItem
+            // 
+            cursosToolStripMenuItem.Name = "cursosToolStripMenuItem";
+            cursosToolStripMenuItem.Size = new Size(180, 22);
+            cursosToolStripMenuItem.Text = "Cursos";
+            cursosToolStripMenuItem.Click += cursosToolStripMenuItem_Click;
+            // 
             // abrirToolStripMenuItem
             // 
-            abrirToolStripMenuItem.DropDownItems.AddRange(new ToolStripItem[] { formTestToolStripMenuItem, formCadastroToolStripMenuItem, cadastrarCursoToolStripMenuItem });
+            abrirToolStripMenuItem.DropDownItems.AddRange(new ToolStripItem[] { formCadastroToolStripMenuItem, cadastrarCursoToolStripMenuItem });
             abrirToolStripMenuItem.Name = "abrirToolStripMenuItem";
             abrirToolStripMenuItem.Size = new Size(180, 22);
             abrirToolStripMenuItem.Text = "Abrir";
-            // 
-            // formTestToolStripMenuItem
-            // 
-            formTestToolStripMenuItem.Name = "formTestToolStripMenuItem";
-            formTestToolStripMenuItem.Size = new Size(180, 22);
-            formTestToolStripMenuItem.Text = "Login";
-            formTestToolStripMenuItem.Click += formTestToolStripMenuItem_Click;
             // 
             // formCadastroToolStripMenuItem
             // 
             formCadastroToolStripMenuItem.Name = "formCadastroToolStripMenuItem";
             formCadastroToolStripMenuItem.Size = new Size(180, 22);
-            formCadastroToolStripMenuItem.Text = "Cadastro";
+            formCadastroToolStripMenuItem.Text = "Cadastrar Aluno";
             formCadastroToolStripMenuItem.Click += formCadastroToolStripMenuItem_Click;
             // 
             // cadastrarCursoToolStripMenuItem
@@ -146,13 +145,6 @@
             menuStrip1.TabIndex = 0;
             menuStrip1.Text = "menuStrip1";
             // 
-            // cursosToolStripMenuItem
-            // 
-            cursosToolStripMenuItem.Name = "cursosToolStripMenuItem";
-            cursosToolStripMenuItem.Size = new Size(180, 22);
-            cursosToolStripMenuItem.Text = "Cursos";
-            cursosToolStripMenuItem.Click += cursosToolStripMenuItem_Click;
-            // 
             // MenuPricipal
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
@@ -183,7 +175,6 @@
         private ToolStripMenuItem fecharAbasToolStripMenuItem;
         private ToolStripMenuItem minimizarAbasToolStripMenuItem;
         private MenuStrip menuStrip1;
-        private ToolStripMenuItem formTestToolStripMenuItem;
         private ToolStripMenuItem formCadastroToolStripMenuItem;
         private ToolStripMenuItem cadastrarCursoToolStripMenuItem;
         private ToolStripMenuItem cursosToolStripMenuItem;

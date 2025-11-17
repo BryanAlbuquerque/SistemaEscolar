@@ -2,7 +2,7 @@
 
 namespace WinFormsApp1.Classe
 {
-    internal class CadastrarCursoDB
+    internal class CadastrarCursos
     {
         private readonly static string ConnectionString =
             "server=localhost;user=root;password=;database=Escola";
@@ -11,7 +11,7 @@ namespace WinFormsApp1.Classe
         public int CargaHoraria { get; set; }
         public int Ano { get; set; }
 
-        public CadastrarCursoDB(string nome, int cargaHoraria, int ano)
+        public CadastrarCursos(string nome, int cargaHoraria, int ano)
         {
             Nome = nome;
             CargaHoraria = cargaHoraria;
