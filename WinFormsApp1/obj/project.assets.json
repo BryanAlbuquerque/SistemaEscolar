@@ -600,9 +600,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\bryan\\Documents\\SistemaEscolar\\WinFormsApp1\\WinFormsApp1.csproj",
-      "projectName": "WinFormsApp1",
-      "projectPath": "C:\\Users\\bryan\\Documents\\SistemaEscolar\\WinFormsApp1\\WinFormsApp1.csproj",
+      "projectUniqueName": "C:\\Users\\bryan\\Documents\\SistemaEscolar\\WinFormsApp1\\SistemaEscolar.csproj",
+      "projectName": "SistemaEscolar",
+      "projectPath": "C:\\Users\\bryan\\Documents\\SistemaEscolar\\WinFormsApp1\\SistemaEscolar.csproj",
       "packagesPath": "C:\\Users\\bryan\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\bryan\\Documents\\SistemaEscolar\\WinFormsApp1\\obj\\",
       "projectStyle": "PackageReference",
@@ -638,7 +638,7 @@
         "auditLevel": "low",
         "auditMode": "direct"
       },
-      "SdkAnalysisLevel": "9.0.300"
+      "SdkAnalysisLevel": "10.0.100"
     },
     "frameworks": {
       "net8.0-windows7.0": {
@@ -668,7 +668,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.307/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.100/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\bryan\\Documents\\SistemaEscolar\\WinFormsApp1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5DBCBB98-51F8-482A-AA40-E80CDF8BBC9B}|SistemaEscolar.csproj|c:\\users\\bryan\\documents\\sistemaescolar\\winformsapp1\\classe\\cadastrarcursos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5DBCBB98-51F8-482A-AA40-E80CDF8BBC9B}|SistemaEscolar.csproj|solutionrelative:classe\\cadastrarcursos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{5DBCBB98-51F8-482A-AA40-E80CDF8BBC9B}|SistemaEscolar.csproj|c:\\users\\bryan\\documents\\sistemaescolar\\winformsapp1\\forms\\menupricipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5DBCBB98-51F8-482A-AA40-E80CDF8BBC9B}|SistemaEscolar.csproj|solutionrelative:forms\\menupricipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5DBCBB98-51F8-482A-AA40-E80CDF8BBC9B}|WinFormsApp1.csproj|C:\\Users\\bryan\\Documents\\SistemaEscolar\\WinFormsApp1\\forms\\menupricipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{5DBCBB98-51F8-482A-AA40-E80CDF8BBC9B}|WinFormsApp1.csproj|solutionrelative:forms\\menupricipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{5DBCBB98-51F8-482A-AA40-E80CDF8BBC9B}|SistemaEscolar.csproj|c:\\users\\bryan\\documents\\sistemaescolar\\winformsapp1\\forms\\menupricipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5DBCBB98-51F8-482A-AA40-E80CDF8BBC9B}|SistemaEscolar.csproj|solutionrelative:forms\\menupricipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DBCBB98-51F8-482A-AA40-E80CDF8BBC9B}|SistemaEscolar.csproj|c:\\users\\bryan\\documents\\sistemaescolar\\winformsapp1\\classe\\cadastrarcursos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DBCBB98-51F8-482A-AA40-E80CDF8BBC9B}|SistemaEscolar.csproj|solutionrelative:classe\\cadastrarcursos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5DBCBB98-51F8-482A-AA40-E80CDF8BBC9B}|SistemaEscolar.csproj|c:\\users\\bryan\\documents\\sistemaescolar\\winformsapp1\\classe\\carregardados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -30,17 +30,17 @@
       "DocumentGroups": [
         {
           "DockedHeight": 275,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "MenuPricipal.cs",
               "DocumentMoniker": "C:\\Users\\bryan\\Documents\\SistemaEscolar\\WinFormsApp1\\Forms\\MenuPricipal.cs",
               "RelativeDocumentMoniker": "Forms\\MenuPricipal.cs",
               "ToolTip": "C:\\Users\\bryan\\Documents\\SistemaEscolar\\WinFormsApp1\\Forms\\MenuPricipal.cs",
               "RelativeToolTip": "Forms\\MenuPricipal.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAWAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD4AAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-17T11:53:01.484Z",
               "IsPinned": true,
@@ -48,25 +48,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "MenuPricipal.cs [Projeto]",
               "DocumentMoniker": "C:\\Users\\bryan\\Documents\\SistemaEscolar\\WinFormsApp1\\Forms\\MenuPricipal.cs",
               "RelativeDocumentMoniker": "Forms\\MenuPricipal.cs",
               "ToolTip": "C:\\Users\\bryan\\Documents\\SistemaEscolar\\WinFormsApp1\\Forms\\MenuPricipal.cs [Projeto]",
               "RelativeToolTip": "Forms\\MenuPricipal.cs [Projeto]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-17T11:32:05.908Z",
-              "IsPinned": true
+              "WhenOpened": "2025-11-20T14:14:46.96Z",
+              "IsPinned": true,
+              "EditorCaption": " [Projeto]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "CadastrarCursos.cs",
               "DocumentMoniker": "C:\\Users\\bryan\\Documents\\SistemaEscolar\\WinFormsApp1\\Classe\\CadastrarCursos.cs",
               "RelativeDocumentMoniker": "Classe\\CadastrarCursos.cs",
               "ToolTip": "C:\\Users\\bryan\\Documents\\SistemaEscolar\\WinFormsApp1\\Classe\\CadastrarCursos.cs",
               "RelativeToolTip": "Classe\\CadastrarCursos.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA5AAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAA9wBsAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-17T18:31:31.164Z",
               "IsPinned": true,

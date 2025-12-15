@@ -9,6 +9,18 @@
     {
       "AbsoluteMoniker": "D:0:0:{5DBCBB98-51F8-482A-AA40-E80CDF8BBC9B}|WinFormsApp1.csproj|C:\\Users\\bryan\\Documents\\SistemaEscolar\\WinFormsApp1\\forms\\menupricipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{5DBCBB98-51F8-482A-AA40-E80CDF8BBC9B}|WinFormsApp1.csproj|solutionrelative:forms\\menupricipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DBCBB98-51F8-482A-AA40-E80CDF8BBC9B}|WinFormsApp1.csproj|c:\\users\\bryan\\documents\\sistemaescolar\\winformsapp1\\classe\\cadastrarcursos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DBCBB98-51F8-482A-AA40-E80CDF8BBC9B}|WinFormsApp1.csproj|solutionrelative:classe\\cadastrarcursos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DBCBB98-51F8-482A-AA40-E80CDF8BBC9B}|WinFormsApp1.csproj|c:\\users\\bryan\\documents\\sistemaescolar\\winformsapp1\\classe\\pesquisar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DBCBB98-51F8-482A-AA40-E80CDF8BBC9B}|WinFormsApp1.csproj|solutionrelative:classe\\pesquisar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DBCBB98-51F8-482A-AA40-E80CDF8BBC9B}|WinFormsApp1.csproj|c:\\users\\bryan\\documents\\sistemaescolar\\winformsapp1\\classe\\carregardados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DBCBB98-51F8-482A-AA40-E80CDF8BBC9B}|WinFormsApp1.csproj|solutionrelative:classe\\carregardados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -28,7 +40,7 @@
               "RelativeDocumentMoniker": "Forms\\MenuPricipal.cs",
               "ToolTip": "C:\\Users\\bryan\\Documents\\SistemaEscolar\\WinFormsApp1\\Forms\\MenuPricipal.cs",
               "RelativeToolTip": "Forms\\MenuPricipal.cs",
-              "ViewState": "AgIAAC0AAAAAAAAAAAArwD4AAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-17T11:53:01.484Z",
               "IsPinned": true,
@@ -44,8 +56,49 @@
               "RelativeToolTip": "Forms\\MenuPricipal.cs [Projeto]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-17T11:32:05.908Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CadastrarCursos.cs",
+              "DocumentMoniker": "C:\\Users\\bryan\\Documents\\SistemaEscolar\\WinFormsApp1\\Classe\\CadastrarCursos.cs",
+              "RelativeDocumentMoniker": "Classe\\CadastrarCursos.cs",
+              "ToolTip": "C:\\Users\\bryan\\Documents\\SistemaEscolar\\WinFormsApp1\\Classe\\CadastrarCursos.cs",
+              "RelativeToolTip": "Classe\\CadastrarCursos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T18:31:31.164Z",
               "IsPinned": true,
-              "EditorCaption": " [Projeto]"
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CarregarDados.cs",
+              "DocumentMoniker": "C:\\Users\\bryan\\Documents\\SistemaEscolar\\WinFormsApp1\\Classe\\CarregarDados.cs",
+              "RelativeDocumentMoniker": "Classe\\CarregarDados.cs",
+              "ToolTip": "C:\\Users\\bryan\\Documents\\SistemaEscolar\\WinFormsApp1\\Classe\\CarregarDados.cs",
+              "RelativeToolTip": "Classe\\CarregarDados.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T18:31:29.243Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Pesquisar.cs",
+              "DocumentMoniker": "C:\\Users\\bryan\\Documents\\SistemaEscolar\\WinFormsApp1\\Classe\\Pesquisar.cs",
+              "RelativeDocumentMoniker": "Classe\\Pesquisar.cs",
+              "ToolTip": "C:\\Users\\bryan\\Documents\\SistemaEscolar\\WinFormsApp1\\Classe\\Pesquisar.cs",
+              "RelativeToolTip": "Classe\\Pesquisar.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T18:31:27.918Z",
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Bookmark",

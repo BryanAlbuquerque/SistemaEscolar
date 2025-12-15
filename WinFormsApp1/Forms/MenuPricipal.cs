@@ -13,9 +13,9 @@ namespace WinFormsApp1
 
         private void novoToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            Alunos formPadrao = new Alunos();
-            formPadrao.MdiParent = this;
-            formPadrao.Show();
+            Alunos alunos = new Alunos();
+            alunos.MdiParent = this;
+            alunos.Show();
         }
 
         private void formCadastroToolStripMenuItem_Click(object sender, EventArgs e)
